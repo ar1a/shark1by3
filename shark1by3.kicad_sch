@@ -1677,7 +1677,7 @@
     (property "Value" "Z" (id 1) (at 228.2156 88.0285 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap" (id 2) (at 211.455 92.075 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Antishear" (id 2) (at 211.455 92.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 211.455 92.075 0)
@@ -2261,7 +2261,7 @@
     (property "Value" "C" (id 1) (at 251.0756 88.0285 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap" (id 2) (at 234.315 92.075 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Antishear" (id 2) (at 234.315 92.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 234.315 92.075 0)
@@ -2459,7 +2459,7 @@
     (property "Value" "X" (id 1) (at 239.6456 88.0285 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap" (id 2) (at 222.885 92.075 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Antishear" (id 2) (at 222.885 92.075 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 222.885 92.075 0)
@@ -2606,13 +2606,13 @@
       (reference "J1") (unit 1) (value "AVR-ISP-6") (footprint "random-keyboard-parts:Reset_Pretty-Mask")
     )
     (path "/0bfe75c1-05d0-4adc-9dc7-2df1c3471385"
-      (reference "MX1") (unit 1) (value "Z") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX1") (unit 1) (value "Z") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
     )
     (path "/d821d36c-8203-4138-be12-eaf5cc3caaee"
-      (reference "MX2") (unit 1) (value "X") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX2") (unit 1) (value "X") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
     )
     (path "/b1de568c-5426-4aff-a66a-482e948a724a"
-      (reference "MX3") (unit 1) (value "C") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX3") (unit 1) (value "C") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
     )
     (path "/5bf3412a-aefc-4123-9a7d-157d90836c07"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
