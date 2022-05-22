@@ -1,0 +1,14 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 71485228-e6d7-48a3-b380-17fe362f9363)
+
+  (paper "User" 297.002 223.926)
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
